@@ -1,0 +1,3 @@
+# Ignorar carpetas de entorno virtual y dependencias en Python
+venv/
+__pycache__/
